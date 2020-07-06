@@ -7,8 +7,6 @@
 # Log file
 *.log
 
-# idea
-*.iml
 target
 bin/
 out/
